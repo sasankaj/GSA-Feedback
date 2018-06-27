@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "39fe6d7370fd5d36f3b2ff7027bf5a08",
+    "content-hash": "43b84566e1f2406e52b8622396674150",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -7253,7 +7253,8 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "drupal/webform": 5,
-        "drupal/webform_rest": 20
+        "drupal/webform_rest": 20,
+        "drupal/devel_debug_log": 10
     },
     "prefer-stable": true,
     "prefer-lowest": false,

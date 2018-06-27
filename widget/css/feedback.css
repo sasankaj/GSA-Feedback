@@ -1,0 +1,25 @@
+
+#gsa_feedback {
+  width: 100%;
+  max-width: 700px;
+}
+
+#gsa_feedback legend {
+  font-size: 2em;
+}
+
+#gsa_feedback li {
+  list-style: decimal;
+}
+
+
+#gsa_feedback .answer label {
+  margin: 10px;
+  display: inline-block;
+  font-size: smaller  ;
+}
+
+#gsa_feedback input[type="submit"] {
+  margin: 10px;
+  padding: 10px 20px;
+}

@@ -1,0 +1,133 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+#gsa_feedback html,
+#gsa_feedback body,
+#gsa_feedback div,
+#gsa_feedback span,
+#gsa_feedback applet,
+#gsa_feedback object,
+#gsa_feedback iframe,
+#gsa_feedback h1,
+#gsa_feedback h2,
+#gsa_feedback h3,
+#gsa_feedback h4,
+#gsa_feedback h5,
+#gsa_feedback h6,
+#gsa_feedback p,
+#gsa_feedback blockquote,
+#gsa_feedback pre,
+#gsa_feedback a,
+#gsa_feedback abbr,
+#gsa_feedback acronym,
+#gsa_feedback address,
+#gsa_feedback big,
+#gsa_feedback cite,
+#gsa_feedback code,
+#gsa_feedback del,
+#gsa_feedback dfn,
+#gsa_feedback em,
+#gsa_feedback img,
+#gsa_feedback ins,
+#gsa_feedback kbd,
+#gsa_feedback q,
+#gsa_feedback s,
+#gsa_feedback samp,
+#gsa_feedback small,
+#gsa_feedback strike,
+#gsa_feedback strong,
+#gsa_feedback sub,
+#gsa_feedback sup,
+#gsa_feedback tt,
+#gsa_feedback var,
+#gsa_feedback b,
+#gsa_feedback u,
+#gsa_feedback i,
+#gsa_feedback center,
+#gsa_feedback dl,
+#gsa_feedback dt,
+#gsa_feedback dd,
+#gsa_feedback ol,
+#gsa_feedback ul,
+#gsa_feedback li,
+#gsa_feedback fieldset,
+#gsa_feedback form,
+#gsa_feedback label,
+#gsa_feedback legend,
+#gsa_feedback table,
+#gsa_feedback caption,
+#gsa_feedback tbody,
+#gsa_feedback tfoot,
+#gsa_feedback thead,
+#gsa_feedback tr,
+#gsa_feedback th,
+#gsa_feedback td,
+#gsa_feedback article,
+#gsa_feedback aside,
+#gsa_feedback canvas,
+#gsa_feedback details,
+#gsa_feedback embed,
+#gsa_feedback figure,
+#gsa_feedback figcaption,
+#gsa_feedback footer,
+#gsa_feedback header,
+#gsa_feedback hgroup,
+#gsa_feedback menu,
+#gsa_feedback nav,
+#gsa_feedback output,
+#gsa_feedback ruby,
+#gsa_feedback section,
+#gsa_feedback summary,
+#gsa_feedback time,
+#gsa_feedback mark,
+#gsa_feedback audio,
+#gsa_feedback video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+
+
+/* HTML5 display-role reset for older browsers */
+#gsa_feedback article,
+#gsa_feedback aside,
+#gsa_feedback details,
+#gsa_feedback figcaption,
+#gsa_feedback figure,
+#gsa_feedback footer,
+#gsa_feedback header,
+#gsa_feedback hgroup,
+#gsa_feedback menu,
+#gsa_feedback nav,
+#gsa_feedback section {
+	display: block;
+}
+#gsa_feedback body {
+	line-height: 1;
+}
+#gsa_feedback ol,
+#gsa_feedback ul {
+	list-style: none;
+}
+#gsa_feedback blockquote,
+#gsa_feedback q {
+	quotes: none;
+}
+#gsa_feedback blockquote:before,
+#gsa_feedback blockquote:after,
+#gsa_feedback q:before,
+#gsa_feedback q:after {
+	content: '';
+	content: none;
+}
+#gsa_feedback table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}

@@ -1,0 +1,16 @@
+@mixin media-block-img($margin-right: 1rem) {
+  float: left;
+  margin-right: $margin-right;
+}
+
+#gsa_feedback {
+
+  .usa-media_block-img {
+    @include media-block-img;
+  }
+
+  .usa-media_block-body {
+    overflow: hidden;
+  }
+
+}

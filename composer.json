@@ -32,7 +32,7 @@
     },
     "require-dev": {
         "drupal/devel": "^1.2",
-        "drupal/devel_debug_log": "^1.0",
+        "drupal/devel_debug_log": "^1.0@beta",
         "webflo/drupal-core-require-dev": "~8.5.3"
     },
     "conflict": {
